@@ -1,0 +1,13 @@
+name: Order_Sheet
+title: Order_Sheet
+username:
+account: palashisback
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 697429
+bundleId: 1862032
+url: https://palashisback.shinyapps.io/Order_Sheet/
+when: 1549551745.32211
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Fastrack_OrderSheet_07-02-2019.csv|Sonata_OrderSheet_07-02-2019.csv|Xylys_OrderSheet_07-02-2019.csv
